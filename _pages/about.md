@@ -24,11 +24,18 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+从山东到法国，十几年光阴的故事
+你好，我是Coralie，来自中国山东。十六年前，我带着对法语和法国文化的憧憬来到这片土地，从最初的语言学习到完成学业，从巴黎到南法，从一个人到一个家，这段旅程漫长却也温暖。
+在巴黎第一大学完成研究生学业后，我留在了法国工作、成家。巴黎见证了我人生中许多重要的时刻——第一份工作的紧张与期待，遇见另一半的偶然与必然，女儿出生时的喜悦与责任。疫情之后，我们全家搬到了法国南部，这里的阳光和大海给了生活新的节奏，也让我在工作和育儿之间找到了更从容的平衡。
+现在的我，持有欧盟蓝卡，从事IT行业，是两个孩子的母亲。每天的生活忙碌却也充实：工作上的挑战，孩子的成长点滴，以及一个异国家庭在文化融合中的摸索与学习。
+在这里，我想分享这些年的经历与心得：
+• 法国教育：从托儿所到大学，作为曾经的学生和现在的家长的观察与体验
+• 跨国育儿：双语环境下的语言启蒙与文化认同
+• 生活实用指南：签证、行政手续、安居经验
+• 职场与家庭：在异国平衡工作与育儿的点滴
+如果你也对法国生活、育儿或留学有兴趣，欢迎常来看看。这里的文字或许不够华丽，但足够真实。希望我的分享能为你提供一些参考，也期待与你交流。
+感谢你的停留，愿我们都能在异国的日子里，找到属于自己的光！
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
