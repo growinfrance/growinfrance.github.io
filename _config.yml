@@ -152,7 +152,6 @@ collections:
     output: true
   france-education:
     output: true
-    permalink: /france-education/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
