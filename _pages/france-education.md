@@ -4,7 +4,7 @@ title: 法国教育
 permalink: /france-education/
 description: 从一个在法国带娃的妈妈角度，聊聊法国教育到底怎么一回事
 nav: true
-nav_order: 1
+nav_order: 2
 display_categories: [法式教育, 学前与小学阶段, 中学阶段, 高等教育]
 horizontal: false
 ---
