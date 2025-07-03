@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+        },{id: "post-美国vs法国大学-两位留学生的亲身体验告诉你如何选择",
+        
+          title: "美国vs法国大学？两位留学生的亲身体验告诉你如何选择~",
+        
+        description: "法国大学和美国大学有何不同？两位在法国学习和任教的美国朋友从课程设置、校园文化、学费、就业导向等多个角度，分享了他们的真实体验。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/france-usa-education-comparison/";
+          
+        },
+      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
