@@ -3,10 +3,9 @@ layout: post
 title: 美国vs法国大学？两位留学生的亲身体验告诉你如何选择~
 date: 2025-07-03 20:00:00
 description: 法国大学和美国大学有何不同？两位在法国学习和任教的美国朋友从课程设置、校园文化、学费、就业导向等多个角度，分享了他们的真实体验。
-tags: 法国教育 美国教育 
-categories: 教育
+tags: 法国
+categories: 法国教育
 thumbnail: assets/img/1france-usa-education/france-usa-education-0.webp
-published: true
 ---
 
 作为一位长期生活在法国的在地博主，我常常会和来自不同文化背景的朋友聊起教育。两位美国朋友——Ben 和 Emily 的经历特别让我印象深刻。
