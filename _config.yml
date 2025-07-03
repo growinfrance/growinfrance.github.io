@@ -153,6 +153,8 @@ collections:
     output: true
   projects:
     output: true
+  france-education:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
