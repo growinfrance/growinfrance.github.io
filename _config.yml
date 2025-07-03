@@ -3,19 +3,21 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: 芳芳
+middle_name: 
+last_name: 法国成长笔记
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  如果您有任何问题或需要帮助，欢迎联系我：growinfrance@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
+  <!-- 
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+  -->
+keywords: 法国教育, 女性成长, 马赛生活, 巴黎生活, 法国旅游, 法国生活, 孩子教育, 儿童成长, 亲子互动, 国外生活, 女儿教育, 儿子教育, 法国留学, 法国移民, 南法亲子, 南法夏令营, 法国游学 # add your own keywords or leave empty
+lang: en, cn, fr # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://growinfrance.github.io # the base hostname & protocol for your site
@@ -86,8 +88,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: 芳芳法国成长笔记 # blog_name will be displayed in your blog page
+blog_description: 我这这里讲述关于光阴的故事，关于生活、成长和亲子教育，分享我的生活中的点点滴滴的～
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
