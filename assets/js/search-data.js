@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-法国教育",
+          title: "法国教育",
+          description: "分享法国教育体系和我亲身经历的法国教育感悟",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/france-education/";
+          },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
